@@ -9,7 +9,7 @@ import java.util.List;
 
 public class SecondChallenge {
 
-private static double readPositiveDouble(BufferedReader reader, double lowerLimit, double upperLimit) throws IOException {
+	private static double readPositiveDouble(BufferedReader reader, double lowerLimit, double upperLimit) throws IOException {
         
 		double value;
 		
